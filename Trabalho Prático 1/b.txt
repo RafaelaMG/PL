@@ -1,0 +1,42 @@
+core@ubuntu:~/Desktop/PL$ gawk -f b.gawk viaverde.xml 
+a saida nº 1 denomina-se Angeiras N-S
+a saida nº 2 denomina-se Ponte Pedra
+a saida nº 3 denomina-se Povoa S-N
+a saida nº 4 denomina-se Ferreiros
+a saida nº 5 denomina-se EN 205 PV
+a saida nº 6 denomina-se Ferreiros
+a saida nº 7 denomina-se Maia PV
+a saida nº 8 denomina-se Povoa S-N
+a saida nº 9 denomina-se Angeiras N-S
+a saida nº 10 denomina-se Aeroporto
+a saida nº 11 denomina-se EN107
+a saida nº 12 denomina-se Braga Sul
+a saida nº 13 denomina-se Maia II
+a saida nº 14 denomina-se Valongo
+a saida nº 15 denomina-se Lipor
+a saida nº 16 denomina-se Ponte Pedra
+a saida nº 17 denomina-se Ermesinde PV
+a saida nº 18 denomina-se Freixieiro
+a saida nº 19 denomina-se Povoa S-N
+a saida nº 20 denomina-se Ferreiros
+a saida nº 21 denomina-se EN 205 PV
+a saida nº 22 denomina-se Angeiras N-S
+a saida nº 23 denomina-se Braga Sul
+a saida nº 24 denomina-se EN 205 PV
+a saida nº 25 denomina-se Ferreiros
+a saida nº 26 denomina-se EN 205 PV
+a saida nº 27 denomina-se Neiva S-N
+a saida nº 28 denomina-se Neiva N-S
+a saida nº 29 denomina-se Angeiras N-S
+a saida nº 30 denomina-se Ponte Pedra
+a saida nº 31 denomina-se Custoias
+a saida nº 32 denomina-se Freixieiro
+a saida nº 33 denomina-se Povoa S-N
+a saida nº 34 denomina-se Angeiras N-S
+a saida nº 35 denomina-se Povoa S-N
+a saida nº 36 denomina-se Ferreiros
+a saida nº 37 denomina-se EN 205 PV
+a saida nº 38 denomina-se Ferreiros
+a saida nº 39 denomina-se EN 205 PV
+a saida nº 40 denomina-se PQ Av. Central
+a saida nº 41 denomina-se PQ A Sa Carn.I

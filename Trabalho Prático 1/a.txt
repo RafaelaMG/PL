@@ -1,0 +1,45 @@
+core@ubuntu:~/Desktop/PL$ gawk -f a.gawk viaverde.xml 
+
+No dia 0/0/2015 efectuou um total de 1 entradas
+
+
+No dia 26/7/2015 efectuou um total de 3 entradas
+
+
+No dia 29/7/2015 efectuou um total de 2 entradas
+
+
+No dia 30/7/2015 efectuou um total de 2 entradas
+
+
+No dia 31/7/2015 efectuou um total de 1 entradas
+
+
+No dia 6/8/2015 efectuou um total de 1 entradas
+
+
+No dia 6/8/2015 efectuou um total de 2 entradas
+
+
+No dia 10/8/2015 efectuou um total de 7 entradas
+
+
+No dia 11/8/2015 efectuou um total de 2 entradas
+
+
+No dia 13/8/2015 efectuou um total de 5 entradas
+
+
+No dia 17/8/2015 efectuou um total de 3 entradas
+
+
+No dia 17/8/2015 efectuou um total de 1 entradas
+
+
+No dia 18/8/2015 efectuou um total de 2 entradas
+
+
+No dia 21/8/2015 efectuou um total de 4 entradas
+
+
+No dia 30/7/2015 efectuou um total de 1 entradas

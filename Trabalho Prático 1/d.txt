@@ -1,0 +1,2 @@
+core@ubuntu:~/Desktop/PL$ gawk -f d.gawk viaverde.xml 
+7.8105
